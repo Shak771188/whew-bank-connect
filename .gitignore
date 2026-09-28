@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.zip
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/terraform.tfvars
+.DS_Store
